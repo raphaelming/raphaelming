@@ -11,9 +11,9 @@
 
 Contact me : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spear131121@gmail.com)](mailto:spear131121@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelming&layout=compact&hide=html,ruby,shaderlab,css)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raphaelming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelming&layout=compact&hide=html,ruby,shaderlab,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **raphaelming/raphaelming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
