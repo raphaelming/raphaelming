@@ -13,7 +13,7 @@
 
 [![Raphaelming's github stats](https://github-readme-stats.vercel.app/api?username=raphaelming&count_private=true&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelming&layout=compact&hide=html,ruby,shaderlab,css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelming&layout=compact&hide=html,ruby,shaderlab,css&langs_count=5&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **raphaelming/raphaelming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
