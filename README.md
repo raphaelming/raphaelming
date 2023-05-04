@@ -11,7 +11,7 @@
 
 ### Contact me : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spear131121@gmail.com)](mailto:spear131121@gmail.com)
 
-[![Raphaelming's github stats](https://github-readme-stats.vercel.app/api?username=raphaelming&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Raphaelming's github stats](https://github-readme-stats.vercel.app/api?username=raphaelming&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelming&layout=compact&hide=html,ruby,shaderlab,css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
